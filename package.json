@@ -1,0 +1,25 @@
+{
+  "name": "sudo",
+  "version": "1.0.0",
+  "description": "My own artificial assistant",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jettsteel/sudo.js.git"
+  },
+  "author": "Arthur Sousa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jettsteel/sudo.js/issues"
+  },
+  "homepage": "https://github.com/Jettsteel/sudo.js#readme",
+  "devDependencies": {
+    "electron": "^13.1.2"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0"
+  }
+}
